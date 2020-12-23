@@ -1,0 +1,43 @@
+
+.button
+{
+    -fx-font-family: serif;
+    -fx-font-size: 10pt;
+    -fx-background-color: #C3BCC2;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 0;
+
+}
+
+.choice-box
+{
+    -fx-font-size: 10pt;
+
+}
+.menu-bar
+{
+    -fx-font-size: 10pt;
+
+}
+
+.button:hover
+{
+    -fx-background-color: #2AAFFC;
+    -border-color: #FFFFFF;
+}
+
+
+
+.label
+{
+    -fx-text-fill: #000000;
+    -fx-font-family: serif;
+    -fx-font-size: 12pt;
+
+}
+
+.root
+{
+     -fx-background-color: #6B5C68;
+
+}
